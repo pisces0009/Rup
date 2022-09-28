@@ -1,2 +1,3 @@
 # Rup
-https://github.com/pisces0009/Rup/blob/master/index.html
+
+https://pisces0009.github.io/Rup/
